@@ -9,5 +9,6 @@
  
  ![image](https://github.com/LawrenceChengJiaxiang/EE6226_DES_ASSIGNMENT/blob/master/des1.gif?raw=true)
 
+-----------------
 ## Run:
-By run the simulation, just kindly run 'des_1.m'
+By run the simulation, just kindly run `des_1.m`
