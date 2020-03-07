@@ -11,4 +11,4 @@
 
 -----------------
 ## Run:
-By run the simulation, just kindly run `des_1.m`
+To try the simulation, just kindly run `des_1.m`
